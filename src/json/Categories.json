@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1.1,
+        "name": "Fans"
+    },
+    {
+        "id": 2.2,
+        "name": "Electric Kettle"
+    },
+    {
+        "id": 3.3,
+        "name": "Desk Lamp"
+    },
+    {
+        "id": 4.4,
+        "name": "Washing Machine"
+    },
+    {
+        "id": 5.5,
+        "name": "Fridge"
+    },
+    {
+        "id": 6.6,
+        "name": "Air-Conditioner"
+    }
+]

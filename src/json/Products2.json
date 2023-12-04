@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "Name": "san pham 1",
+        "image": "/assets/images/tu lanh/tulanh 6.jpg ",
+        "category": "Hot",
+        "desc": "Fridge",
+        "old_price": 999,
+        "new_price": 899
+    },
+    {
+        "id": 2,
+        "Name": "san pham 2",
+        "image": " /assets/images/tu lanh/tulanh 7.jpg",
+        "category": "Hot",
+        "desc": "Fridge",
+        "old_price": 1550,
+        "new_price": 1450
+    },
+    {
+        "id": 3,
+        "Name": "san pham 3",
+        "image": "/assets/images/tu lanh/tulanh 8.jpg",
+        "category": "Hot",
+        "desc": "Fridge",
+        "old_price": 1000,
+        "new_price": 955
+    },
+    {
+        "id": 4,
+        "Name": "san pham 4",
+        "image": "/assets/images/tu lanh/tulanh 9.jpg",
+        "category": "Hot",
+        "desc": "Fridge",
+        "old_price": 1350,
+        "new_price": 1299
+    },
+    {
+        "id": 5,
+        "Name": "san pham 5",
+        "image": "/assets/images/may giat/maygiat 16.png ",
+        "category": "Hot",
+        "desc": "Washing Machine",
+        "old_price": 999,
+        "new_price": 899
+    },
+    {
+        "id": 6,
+        "Name": "san pham 6",
+        "image": " /assets/images/may giat/maygiat 17.png",
+        "category": "Hot",
+        "desc": "Washing Machine",
+        "old_price": 1550,
+        "new_price": 1450
+    },
+    {
+        "id": 7,
+        "Name": "san pham 7",
+        "image": "/assets/images/may giat/maygiat 23.png",
+        "category": "Hot",
+        "desc": "Washing Machine",
+        "old_price": 1000,
+        "new_price": 955
+    },
+    {
+        "id": 8,
+        "Name": "san pham 8",
+        "image": "/assets/images/may lanh/maylanh 16.png",
+        "category": "Hot",
+        "desc": "Air-Conditioner",
+        "old_price": 1250,
+        "new_price": 1050
+    }
+]

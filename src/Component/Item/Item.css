@@ -1,0 +1,11 @@
+.product_price del{
+    padding-left: 20px;
+}
+.product_price span{
+    padding-left: 10px;
+}
+.link h5:hover{
+    color: red;
+    text-decoration: underline;
+    
+}

@@ -1,0 +1,254 @@
+[
+    {
+        "id": 1,
+        "Name": "san pham 1",
+        "image": "/assets/images/quat/quat 6.png ",
+        "category": "Hot",
+        "desc": "Fans",
+        "old_price": 440,
+        "new_price": 400
+    },
+    {
+        "id": 2,
+        "Name": "san pham 2",
+        "image": "/assets/images/denhoc/den 2.jpg ",
+        "category": "Hot",
+        "desc": "Desk Lamp",
+        "old_price": 430,
+        "new_price": 400
+    },
+    {
+        "id": 3,
+        "Name": "san pham 3",
+        "image": " /assets/images/am/am 7.png",
+        "category": "Hot",
+        "desc": "Electric Kettle",
+        "old_price": 340,
+        "new_price": 300
+    },
+    {
+        "id": 4,
+        "Name": "san pham 4",
+        "image": "/assets/images/denhoc/den 4.png",
+        "category": "Hot",
+        "desc": "Desk Lamp",
+        "old_price": 100,
+        "new_price": 85
+    },
+    {
+        "id": 5,
+        "Name": "san pham 5",
+        "image": "/assets/images/denhoc/den 5.png",
+        "category": "Hot",
+        "desc": "Desk Lamp",
+        "old_price": 150,
+        "new_price": 90
+    },
+    {
+        "id": 6,
+        "Name": "san pham 6",
+        "image": "/assets/images/am/am 6.png ",
+        "category": "Hot",
+        "desc": "Electric Kettle",
+        "old_price": 610,
+        "new_price": 500
+    },
+    {
+        "id": 7,
+        "Name": "san pham 7",
+        "image": "/assets/images/am/am 8.png",
+        "category": "Hot",
+        "desc": "Electric Kettle",
+        "old_price": 299,
+        "new_price": 199
+    },
+    {
+        "id": 8,
+        "Name": "san pham 8",
+        "image": " /assets/images/denhoc/den 3.webp",
+        "category": "Hot",
+        "desc": "Desk Lamp",
+        "old_price": 500,
+        "new_price": 450
+    },
+    {
+        "id": 9,
+        "Name": "san pham 9",
+        "image": "/assets/images/am/am 9.png",
+        "category": "Hot",
+        "desc": "Electric Kettle",
+        "old_price": 99,
+        "new_price": 80
+    },
+    {
+        "id": 10,
+        "Name": "san pham 10",
+        "image": "/assets/images/may giat/maygiat 11.png ",
+        "category": "Hot",
+        "desc": "Washing Machine",
+        "old_price": 999,
+        "new_price": 899
+    },
+    {
+        "id": 11,
+        "Name": "san pham 11",
+        "image": " /assets/images/may giat/maygiat 12.png",
+        "category": "Hot",
+        "desc": "Washing Machine",
+        "old_price": 1550,
+        "new_price": 1450
+    },
+    {
+        "id": 12,
+        "Name": "san pham 12",
+        "image": "/assets/images/may giat/maygiat 13.png",
+        "category": "Hot",
+        "desc": "Washing Machine",
+        "old_price": 1000,
+        "new_price": 955
+    },
+    {
+        "id": 13,
+        "Name": "san pham 13",
+        "image": "/assets/images/may giat/maygiat 14.png",
+        "category": "Hot",
+        "desc": "Washing Machine",
+        "old_price": 1250,
+        "new_price": 1050
+    },
+    {
+        "id": 14,
+        "Name": "san pham 14",
+        "image": "/assets/images/am/am 10.png",
+        "category": "Hot",
+        "desc": "Electric Kettle",
+        "old_price": 155,
+        "new_price": 98
+    },
+    {
+        "id": 15,
+        "Name": "san pham 15",
+        "image": "/assets/images/may giat/maygiat 15.png",
+        "category": "Hot",
+        "desc": "Washing Machine",
+        "old_price": 1350,
+        "new_price": 1299
+    },
+    {
+        "id": 16,
+        "Name": "san pham 16",
+        "image": "/assets/images/may lanh/maylanh 8.png ",
+        "category": "Hot",
+        "desc": "Air-Conditioner",
+        "old_price": 999,
+        "new_price": 899
+    },
+    {
+        "id": 17,
+        "Name": "san pham 17",
+        "image": "/assets/images/may lanh/maylanh 11.png",
+        "category": "Hot",
+        "desc": "Air-Conditioner",
+        "old_price": 1250,
+        "new_price": 1050
+    },
+    {
+        "id": 18,
+        "Name": "san pham 18",
+        "image": " /assets/images/quat/quat 7.png",
+        "category": "Hot",
+        "desc": "Fans",
+        "old_price": 1500,
+        "new_price": 950
+    },
+    {
+        "id": 19,
+        "Name": "san pham 19",
+        "image": "/assets/images/quat/quat 8.png",
+        "category": "Hot",
+        "desc": "Fans",
+        "old_price": 1000,
+        "new_price": 850
+    },
+    {
+        "id": 20,
+        "Name": "san pham 20",
+        "image": "/assets/images/tu lanh/tulanh 14.png",
+        "category": "Hot",
+        "desc": "Fridge",
+        "old_price": 2550,
+        "new_price": 1950
+    },
+    {
+        "id": 21,
+        "Name": "san pham 21",
+        "image": "/assets/images/quat/quat 9.png",
+        "category": "Hot",
+        "desc": "Fans",
+        "old_price": 550,
+        "new_price": 450
+    },
+    {
+        "id": 22,
+        "Name": "san pham 22",
+        "image": "/assets/images/tu lanh/tulanh 11.png ",
+        "category": "Hot",
+        "desc": "Fridge",
+        "old_price": 1449,
+        "new_price": 1300
+    },
+    {
+        "id": 23,
+        "Name": "san pham 23",
+        "image": " /assets/images/tu lanh/tulanh 12.png",
+        "category": "Hot",
+        "desc": "Fridge",
+        "old_price": 1500,
+        "new_price": 1450
+    },
+    {
+        "id": 24,
+        "Name": "san pham 24",
+        "image": "/assets/images/tu lanh/tulanh 13.png",
+        "category": "Hot",
+        "desc": "Fridge",
+        "old_price": 1200,
+        "new_price": 950
+    },
+    {
+        "id": 25,
+        "Name": "san pham 25",
+        "image": "/assets/images/may lanh/maylanh 9.png",
+        "category": "Hot",
+        "desc": "Air-Conditioner",
+        "old_price": 1350,
+        "new_price": 1299
+    },
+    {
+        "id": 26,
+        "Name": "san pham 26",
+        "image": "/assets/images/tu lanh/tulanh 15.png",
+        "category": "Hot",
+        "desc": "Fridge",
+        "old_price": 950,
+        "new_price": 850
+    },
+    {
+        "id": 27,
+        "Name": "san pham 27",
+        "image": " /assets/images/may lanh/maylanh 12.png",
+        "category": "Hot",
+        "desc": "Air-Conditioner",
+        "old_price": 1550,
+        "new_price": 1450
+    },
+    {
+        "id": 28,
+        "Name": "san pham 28",
+        "image": "/assets/images/may lanh/maylanh 10.png",
+        "category": "Hot",
+        "desc": "Air-Conditioner",
+        "old_price": 1000,
+        "new_price": 955
+    }
+]

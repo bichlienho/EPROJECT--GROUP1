@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "Name": "san pham 1",
+        "image": "/assets/images/may giat/maygiat 6.jpg ",
+        "category": "Hot",
+        "old_price": 999,
+        "new_price": 899
+    },
+    {
+        "id": 2,
+        "Name": "san pham 2",
+        "image": " /assets/images/may giat/maygiat 7.jpg",
+        "category": "Hot",
+        "old_price": 1550,
+        "new_price": 1450
+    },
+    {
+        "id": 3,
+        "Name": "san pham 3",
+        "image": "/assets/images/may giat/maygiat 8.jpg",
+        "category": "Hot",
+        "old_price": 1000,
+        "new_price": 955
+    },
+    {
+        "id": 4,
+        "Name": "san pham 4",
+        "image": "/assets/images/may giat/maygiat 9.jpg",
+        "category": "Hot",
+        "old_price": 1250,
+        "new_price": 1050
+    },
+    {
+        "id": 5,
+        "Name": "san pham 5",
+        "image": "/assets/images/may giat/maygiat 10.jpg",
+        "category": "Hot",
+        "old_price": 1350,
+        "new_price": 1299
+    }
+]
